@@ -30,7 +30,7 @@ The project aims to benchmark six different anomaly detection methods:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mvtec-anomaly-benchmark.git
+git clone https://github.com/youssef819/mvtec-anomaly-benchmark.git
 cd mvtec-anomaly-benchmark
 ```
 
